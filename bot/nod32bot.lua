@@ -323,7 +323,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @OffLiNeTGCH
+ch: @MeGa_TG_CH
 
 ]],
     help_text = [[
