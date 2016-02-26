@@ -1,6 +1,6 @@
-NOD32-BOT is new and best bot.
+MeGa_TG is new and best bot.
 _________________________________________________________________________________
-for install  
+برای  نصب
 ```bash
 sudo apt-get update
 
@@ -41,14 +41,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
 
+channel : https://telegram.me/MeGa_TG_CH
 
-Dont forgot update {structures.c} befor lunch [its anti GIF file]
-
-HOW DO MAKE UPDATE THIS FILE?
-
-see this git https://github.com/BH-YAGHI/tg.git
-
----------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
-
-developer : https://telegram.me/Behroozyaghi
+developer : https://telegram.me/arabi373
