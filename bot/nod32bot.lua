@@ -249,9 +249,15 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+An advance Administration bot based on SEEDTEAM/TeleSeed
 
-channel : @OffLiNeTGCH
+Admins:
+@Arabi373 [Developer]
+
+https://github.com/MeGa-TeAm/MeGabot
+
+channel : @MeGa_TG_CH
+
 sodu : @arabi373
 ]],
     help_text_realm = [[
@@ -321,7 +327,7 @@ ch: @OffLiNeTGCH
 
 ]],
     help_text = [[
-NOD32 Commands list :
+MeGa_TG Commands list :
  
 1-banhammer list ^
  
@@ -518,7 +524,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @OffLiNeTGCH
+channel: @MeGa_TG_CH
 
 G00D LUCK ^_^
 ]]
